@@ -8,7 +8,7 @@ Author: I Dewa Nyoman Dharma Santika
 
 ## 📌 Objective
 This project's goals are to:
-- Look aat how customers behave at Starbucks in Malaysia
+- Look at how customers behave at Starbucks in Malaysia
 - See how happy customers are based on a survey
 - Give ideas for marketing strategies and ways to improve customer service
 
